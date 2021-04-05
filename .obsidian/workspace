@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "_notes/Chicken Piccata.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_notes/Chicken Piccata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/Chicken Piccata.md",
+    "_notes/Quick Beef and Zucchini Skillet.md",
+    "_notes/Chicken.md",
     "index.md",
     "README.md",
     "notes.md",
     "dates.md",
     "about.md",
     "tags.md",
-    "_site/README.md",
-    "_notes/Quick Beef and Zucchini Skillet.md",
-    "_notes/Chicken.md",
-    "_notes/Chicken Piccata.md"
+    "_site/README.md"
   ]
 }

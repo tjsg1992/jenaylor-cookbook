@@ -1,11 +1,10 @@
 ---
-title: Chicken
-tags: tag1
-toc: true
-season: spring
+title: Chicken Breast
+tags: Ingredient
+toc: false
+season: summer
 ---
 
-# Chicken
-## Temperatures
-### Chicken Breast
-7 minutes each side (medium-high first, then medium), 160F
+## Timings
+- 7 minutes each side, medium high, then medium
+- 160F

@@ -1,6 +1,6 @@
 ---
 title: Quick Beef and Zucchini Skillet
-tags: online, beef, mealprep
+tags: Online Beef MealPrep
 toc: false
 season: summer
 ---
@@ -27,3 +27,6 @@ season: summer
 5. Add garlic to skillet, 1 minute
 6. Add zucchini to skillet, 3 minutes
 7. Add potatoes to skillet, mix, garnish with thyme
+
+## Source
+https://www.primaverakitchen.com/quick-beef-and-zucchini-skillet/
