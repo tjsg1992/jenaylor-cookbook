@@ -1,6 +1,6 @@
 ---
 title: Chicken Piccata
-tags: CookingForTwo Dinner Chicken Quick Italian
+tags: Dinner CookingForTwo Chicken Quick Italian
 toc: false
 season: summer
 ---

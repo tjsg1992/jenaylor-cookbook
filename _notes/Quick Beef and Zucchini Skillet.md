@@ -1,6 +1,6 @@
 ---
 title: Quick Beef and Zucchini Skillet
-tags: Online Beef MealPrep
+tags: MealPrep Online Beef
 toc: false
 season: summer
 ---
