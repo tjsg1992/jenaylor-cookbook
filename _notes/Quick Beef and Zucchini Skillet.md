@@ -1,5 +1,5 @@
 ---
-title: Quick Beef and Zucchini Skillet
+title: 
 tags: online, beef, mealprep
 toc: false
 season: summer
@@ -8,10 +8,10 @@ season: summer
 # Quick Beef and Zucchini Skillet
 
 ## Ingredients
-Baby potatoes, 3 cups
-Beef stew meat, 1 1/4 lb
-Zucchini, 2 medium
-Thyme
+- Baby potatoes, 3 cups
+- Beef stew meat, 1 1/4 lb
+- Zucchini, 2 medium
+- Thyme
 
 ## Instructions
 
