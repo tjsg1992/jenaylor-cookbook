@@ -9,7 +9,7 @@ season: summer
 ## Ingredients
 - Flour tortilla, 4
 - Chicken tenderloin, 4
-- Minced jalapenos, 2 tsp
+- Minced jalapenos, 1 can
 
 ## Instructions
 
