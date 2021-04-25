@@ -9,25 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Creamy Black Bean Taquitos.md",
-            "file": "_notes/Chicken Breast.md",
-            "file": "_notes/Taco Bell Quesadillas.md",
+            "file": "_notes/Creamy Shrimp Enchiladas.md",
             "mode": "source"
           }
-        },
-        "group": "c3da2d70ea973808"
-      },
-      {
-        "id": "68a1d28849ebee41",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Taco Bell Quesadillas.md",
-            "mode": "source"
-          }
-        },
-        "group": "c3da2d70ea973808"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,9 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Creamy Black Bean Taquitos.md",
-                "file": "_notes/Chicken Breast.md",
-                "file": "_notes/Taco Bell Quesadillas.md",
+                "file": "_notes/Creamy Shrimp Enchiladas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,21 +88,15 @@
   },
   "active": "321f0918b0927431",
   "lastOpenFiles": [
+    "_notes/Creamy Shrimp Enchiladas.md",
     "_notes/Creamy Black Bean Taquitos.md",
-    "_notes/Creamy Crockpot White Chicken Chili.md",
     "_notes/Chicken Piccata.md",
-    "_notes/Taco Bell Quesadillas.md",
-    "_notes/Chicken Breast.md",
+    "_notes/Creamy Crockpot White Chicken Chili.md",
     "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
-    "_notes/Taco Bell Quesadillas.md",
-    "_notes/Recipe Template.md",
-    "_notes/Untitled.md",
-    "_notes/Recipe Template.md",
-    "_notes/Untitled.md",
     "_notes/Quick Beef and Zucchini Skillet.md",
     "_notes/Untitled.md",
     "_notes/Recipe Template.md",
     "_notes/Taco Bell Quesadillas.md",
-    "_notes/Chicken.md"
+    "_notes/Chicken Breast.md"
   ]
 }
