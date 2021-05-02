@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Creamy Shrimp Enchiladas.md",
+            "file": "_notes/Philly Cheesesteak Sandwich.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Creamy Shrimp Enchiladas.md",
+                "file": "_notes/Philly Cheesesteak Sandwich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "321f0918b0927431",
   "lastOpenFiles": [
-    "_notes/Creamy Shrimp Enchiladas.md",
-    "_notes/Creamy Black Bean Taquitos.md",
-    "_notes/Chicken Piccata.md",
-    "_notes/Creamy Crockpot White Chicken Chili.md",
+    "_notes/Philly Cheesesteak Sandwich.md",
     "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
+    "_notes/Shrimp Taco Bowls.md",
     "_notes/Quick Beef and Zucchini Skillet.md",
-    "_notes/Untitled.md",
     "_notes/Recipe Template.md",
     "_notes/Taco Bell Quesadillas.md",
-    "_notes/Chicken Breast.md"
+    "_notes/Creamy Shrimp Enchiladas.md",
+    "_notes/Creamy Crockpot White Chicken Chili.md",
+    "_notes/Creamy Black Bean Taquitos.md",
+    "_notes/Chicken Piccata.md"
   ]
 }
