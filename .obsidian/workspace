@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Philly Cheesesteak Sandwich.md",
+            "file": "_notes/Shrimp Taco Bowls.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Philly Cheesesteak Sandwich.md",
+                "file": "_notes/Shrimp Taco Bowls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "321f0918b0927431",
   "lastOpenFiles": [
+    "_notes/Shrimp Taco Bowls.md",
     "_notes/Philly Cheesesteak Sandwich.md",
     "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
-    "_notes/Shrimp Taco Bowls.md",
     "_notes/Quick Beef and Zucchini Skillet.md",
     "_notes/Recipe Template.md",
     "_notes/Taco Bell Quesadillas.md",
