@@ -1,44 +1,19 @@
-# Notenote.link
+# Jenaylor Cookbook
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
+## How do I add a new recipe?
+1. Navigate to your local repository
+	- Jenna: `C:\My Everything\Jenaylor Stuff\jenaylor-cookbook`
+2. Run `pull`
+3. Open Obsidian
+4. Press `Ctrl+N` to make a new note
+5. Name the note with the recipe title
+6. Press `Ctrl+P` to open actions
+7. Select 'Insert Template'
+8. Edit the recipe
+9. Run `push` when you are done
 
-## Update !
-
-Hi everyone ! I recently updated the template so that you can now link headers : [[note#header\\|title]], which is done natively in Obsidian. Besides, there are now header links that appear on hover. As my notes get longer and longer, this functionnality became very necessary for meaningful linkings. If you see a bug, please open an issue about it !
-
-## What is this?
-
-A digital garden using a custom version of `simply-jekyll`, optimised for integration with [Obsidian](https://obsidian.md). It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time. 
-
-**Demo is here: [notenote.link](https://notenote.link)**
-
-If you want to see a more refined example, you can check my notes (in french) at [arboretum.link](https://www.arboretum.link/). Build time is approx. 15 seconds, FYI.
-
-Issues are welcome, including feedback ! Don't hesitate to ask if you can't find a solution. 💫
-
-![screenshot](/assets/img/screenshot.png)
-
-## What is different?
-
-- Markdown is fully-compatible with Obsidian (including Latex delimiters!)
-- There are now only notes (no blog posts).
-- There are cosmetic changes (ADHD-friendly code highlighting, larger font, larger page)
-- Code is now correctly indented
-- Wikilinks, but also alt-text wikilinks (with transclusion!) are usable.
-
-## How do I use this?
-
-You can click on this link and let the deploy-to-netlify-for-free-script do the rest !
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Maxence-L/notenote.link)
-
-Follow the [How to setup this site](https://notenote.link/notes/how-to-setup-this-site) guide, written by [raghuveerdotnet](https://github.com/raghuveerdotnet) and then adapted for this fork.
-
-If you want to use it with Github Pages, it is possible, [please read this](https://github.com/Maxence-L/notenote.link/issues/5#issuecomment-762508069).
-
-## How can I participate?
-
-Open an issue to share feedback or propose features. Star the repo if you like it! 🌟
+## How do I add a link?
+Press `Ctrl+K`. This will insert text: `[]()`. Links are formatted as `[Text to Display](Link Address)`
 
 ## How do I customize this for my needs?
 
