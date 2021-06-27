@@ -6,15 +6,15 @@ season: summer
 ---
 
 ## Ingredients
--Orzo Pasta, 1 Cup
--Cherry/Grape Tomatoes, 8oz
--Artichoke hearts-marinated quarted, 1 Cup
--Spinach, 8 cups
--Green Onions, 2
--Feta-crumbled, 1/2 cup
--Capers, 1 tablespoon
--Lemon, 1 
--Tarragon, 1 tablespoon
+- Orzo Pasta, 1 Cup
+- Cherry/Grape Tomatoes, 8oz
+- Artichoke hearts-marinated quarted, 1 Cup
+- Spinach, 8 cups
+- Green Onions, 2
+- Feta-crumbled, 1/2 cup
+- Capers, 1 tablespoon
+- Lemon, 1 
+- Tarragon, 1 tablespoon
 
 ## Instructions
 
