@@ -20,13 +20,14 @@ season: summer
 
 
 ### Prep
-Large Bowl (Vegetable mixture)
+#### Large Vegetable Bowl
 1. Tomatoes, Half 
 2. fresh spinach, coarsely chopped
 3. green onions, chopped
 4. Capers, drained 
+5. Add Feta
 
-Small Bowl (Dressing)
+#### Small Dressing Bowl
 1. Olive Oil, 1/3 cup
 2. Lemon Zest, 2 teaspoons
 3. Lemon Juice, 4 teaspoons
@@ -40,9 +41,8 @@ Small Bowl (Dressing)
 2. Put Orzo in water for 9 mins
 3. Rise Orzo with cold water
 4. Add Orzo to vegatable mixture.
-5. Add Feta
-6. Pour dressing over salad
-7. Chill until serving
+5. Pour dressing over salad
+6. Chill until serving
 
 ## Source
 [Online Recipe](https://www.tasteofhome.com/recipes/orzo-vegetable-salad/)
