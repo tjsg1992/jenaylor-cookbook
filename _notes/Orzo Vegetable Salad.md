@@ -6,43 +6,46 @@ season: summer
 ---
 
 ## Ingredients
-- Orzo Pasta, 1 Cup
-- Cherry/Grape Tomatoes, 8oz
-- Artichoke hearts-marinated quarted, 1 Cup
+- Orzo, 1 cup
+- Cherry tomato, 8oz
+- Artichoke hearts, marinated, quartered, 1 cup
 - Spinach, 8 cups
-- Green Onions, 2
-- Feta-crumbled, 1/2 cup
-- Capers, 1 tablespoon
+- Green onions, 2
+- Feta, crumbled, 1/2 cup
+- Capers, 1 tbsp
 - Lemon, 1 
-- Tarragon, 1 tablespoon
+- Tarragon, 1 tbsp
 
 ## Instructions
 
-
 ### Prep
-#### Large Vegetable Bowl
-1. Tomatoes, Half 
-2. fresh spinach, coarsely chopped
-3. green onions, chopped
-4. Capers, drained 
-5. Add Feta
+- Cherry tomato, halve
+- Spinach, coarsely chop
+- Green onion, chop
+- Capters, drain
+- Lemon, zest and juice
 
-#### Small Dressing Bowl
-1. Olive Oil, 1/3 cup
-2. Lemon Zest, 2 teaspoons
-3. Lemon Juice, 4 teaspoons
-4. Tarragon, 1 teaspoon
-5. Rice Vinegar, 2 teaspoons
-6. Salt, 1/2 teapsoon
-7. Pepper, 1/4 teaspoon
+#### Vegetable Bowl
+1. **Cherry tomato**
+2. **Spinach**
+3. **Green onion**
+4. **Capers**
+5. **Feta**
+
+#### Dressing Bowl
+1. Olive oil, 1/3 cup
+2. **Lemon zest**, 2 tsp
+3. **Lemon juice**, 4 tsp
+4. **Tarragon**, 1 tsp
+5. Rice vinegar, 2 tsp
+6. Salt, 1/2 tsp
+7. Pepper, 1/4 tsp
 
 ### Cooking
-1. Boil water
-2. Put Orzo in water for 9 mins
-3. Rise Orzo with cold water
-4. Add Orzo to vegatable mixture.
-5. Pour dressing over salad
-6. Chill until serving
+1. [[Pasta#Process|Cook orzo]]
+4. Add Orzo to **Vegetable Bowl**
+5. Pour **Dressing Bowl** over mixture
+6. Chill, serve
 
 ## Source
 [Online Recipe](https://www.tasteofhome.com/recipes/orzo-vegetable-salad/)

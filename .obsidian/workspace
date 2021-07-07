@@ -9,18 +9,51 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "_notes/Spaghetti and Turkey-Pesto Meatballs.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ff2e76c45f8685fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Quick Beef and Zucchini Skillet.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2ce838b41f5f270f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_notes/Orzo Vegetable Salad.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "8b219ecbaaca5834",
+        "id": "ec089469052a8ff6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
+            "file": "_notes/Chicken Breast.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1df2ef111675ae71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Pasta.md",
             "mode": "source"
           }
         }
@@ -97,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "321f0918b0927431",
+  "active": "2ce838b41f5f270f",
   "lastOpenFiles": [
     "_notes/Orzo Vegetable Salad.md",
-    "README.md",
-    "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
+    "_notes/Pasta.md",
+    "_notes/Chicken Breast.md",
     "_notes/Quick Beef and Zucchini Skillet.md",
-    "_notes/Creamy Black Bean Taquitos.md",
-    "_notes/Creamy Crockpot White Chicken Chili.md",
-    "templates/Recipe Template.md",
+    "_notes/Spaghetti and Turkey-Pesto Meatballs.md",
     "_notes/Untitled.md",
-    "_notes/Taco Bell Quesadillas.md",
-    "_notes/Shrimp Taco Bowls.md"
+    "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
+    "README.md",
+    "_notes/Creamy Black Bean Taquitos.md",
+    "_notes/Creamy Crockpot White Chicken Chili.md"
   ]
 }
