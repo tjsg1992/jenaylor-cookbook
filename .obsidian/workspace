@@ -15,45 +15,12 @@
         }
       },
       {
-        "id": "ff2e76c45f8685fd",
+        "id": "b87bf9a3a2d8b37c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Quick Beef and Zucchini Skillet.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2ce838b41f5f270f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Orzo Vegetable Salad.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ec089469052a8ff6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Chicken Breast.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1df2ef111675ae71",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Pasta.md",
+            "file": "_notes/Turkey Burgers.md",
             "mode": "source"
           }
         }
@@ -112,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Pasta.md",
+                "file": "_notes/Turkey Burgers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1df2ef111675ae71",
+  "active": "b87bf9a3a2d8b37c",
   "lastOpenFiles": [
-    "_notes/Pasta.md",
-    "_notes/Orzo Vegetable Salad.md",
-    "_notes/Chicken Breast.md",
-    "_notes/Quick Beef and Zucchini Skillet.md",
+    "_notes/Turkey Burgers.md",
     "_notes/Spaghetti and Turkey-Pesto Meatballs.md",
     "_notes/Untitled.md",
-    "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md",
-    "README.md",
-    "_notes/Creamy Black Bean Taquitos.md",
-    "_notes/Creamy Crockpot White Chicken Chili.md"
+    "_notes/Chicken Breast.md",
+    "_notes/Orzo Vegetable Salad.md",
+    "_notes/Taco Bell Quesadillas.md",
+    "_notes/Quick Beef and Zucchini Skillet.md",
+    "_notes/Shrimp Taco Bowls.md",
+    "_notes/Pasta.md",
+    "_notes/One-Pan Roasted Chicken, Broccoli, and Sweet Potatoes.md"
   ]
 }
