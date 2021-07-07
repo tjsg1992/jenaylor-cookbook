@@ -17,7 +17,3 @@ season: summer
 #### Process
 1. Cook orzo in boiling water for 9 minutes
 2. Rinse orzo with cold water
-
-## Timings
-### Orzo
-9 minutes
